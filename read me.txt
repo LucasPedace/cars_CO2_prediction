@@ -1,0 +1,2 @@
+I got the data from the following link
+https://www.kaggle.com/datasets/mdrazakhan/linear-regression-dataset
